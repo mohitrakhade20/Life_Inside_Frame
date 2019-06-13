@@ -1,0 +1,95 @@
+div{
+    height: 700px;
+}
+ul{
+    font-size: 2em;
+    list-style-type: none;
+}
+#ooo{
+    font-family: 'Merienda', cursive;
+   font-size: 20px; 
+    text-align: center;
+    
+    
+}
+h3{
+    text-align: right;
+    font-size: 20px;
+}
+.c{
+    font-size: 20px;
+}
+
+p{
+    font-size: 30px;
+    text-decoration: none;
+   font-family: 'Kalam', serif;
+    width: 100%;
+    left: 300px;
+    text-align: center;
+}
+
+h1{
+    font-size: 100px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 170px;
+    font-family: 'Merienda', cursive;
+    display: block;
+    color: black;
+}
+a{
+    font-size:10px;
+}
+.mohit{
+    height: 700px ;
+}
+video{
+    position: relative;
+    left: 50%;
+    top=50%;
+    margin-top: -30%;
+    margin-left: -50%;
+    width:100%;
+    opacity: 0.7 ;
+  z-index: 1;
+    padding: 0px;
+}
+.mayur{
+    width: 100% 
+}
+.wt{
+ height: 500px;   
+}
+.wt1{
+ height: 180px;   
+}
+.nav{
+    height: 300px;
+}
+.bb{
+    padding: 40px;
+    border: solid 1px black;
+   font-family: 'Josefin Slab', serif;
+    font-size: 3em;
+    text-decoration: none;
+    border-radius: 20px;
+    background: #000000;
+    display: block;
+    color: aliceblue;
+    
+}
+button
+{
+    text-align: center;
+    padding-left: 25px;
+    padding-right: 25px;
+    display: block;
+    font-display: swap;
+    margin:20px auto;
+    background-color:#000000;
+    color: antiquewhite;
+    font-family: 'Josefin Slab', serif;
+    border: 2px solid;
+    border-radius: 10px;
+}
